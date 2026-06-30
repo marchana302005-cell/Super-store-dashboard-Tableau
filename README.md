@@ -40,8 +40,7 @@ Create visualizations that convey a compelling story using Tableau to analyze Su
 
 6. **Create summary slide/storyboard**
    - Combined 3 key charts into single interactive dashboard
-   - Dashboard tells complete story: What sells, Where profit is, When sales peak
-
+   
 ## Output
 
 **Live Interactive Dashboard:** 
